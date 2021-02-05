@@ -1,6 +1,6 @@
-baseURL = "https://clever-moomin.github.io/"
+baseURL = ""
 languageCode = "ja-jp"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ja"
 title = "chibo"
 theme = "anatole"
 summarylength = 10
