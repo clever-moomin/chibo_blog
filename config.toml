@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://clever-moomin.github.io/remote/"
 languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
 title = "chibo"
@@ -101,3 +101,6 @@ url = "mailto:mail@alexbilz.com"
   weight = 400
   identifier = "contact"
   url = "/contact/"
+
+
+publishDir = "docs"
