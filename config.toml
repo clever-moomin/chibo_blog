@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
-languageCode = "en"
+baseURL = "https://clevermoomin.github.io/"
+languageCode = "ja-jp"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "chibo"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -21,7 +21,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "Chibo/ちぼ"
 author = "chibo blog"
-#copyright = "2020-2021"
+#copyright = "chibo"
 description = "Web開発やDX支援や音楽を教えたりして生きてます"
 #メモ　I am what I am.
 profilePicture = "images/tio.jpg"
@@ -41,6 +41,7 @@ doNotLoadAnimations = false
 # indexDateFormat = "Mon, Jan 2, 2006"
 # listDateFormat = "Jan 2"
 # singleDateFormat = "Mon, Jan 2, 2006"
+disableThemeSwitcher = true # Theme switcher is enabled by default
 
 [params.simpleAnalytics]
 # enable = true
@@ -100,3 +101,4 @@ url = "mailto:mail@alexbilz.com"
   weight = 400
   identifier = "contact"
   url = "/contact/"
+
