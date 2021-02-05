@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chibo</title>
+    <link>https://clevermoomin.github.io/</link>
+    <description>Recent content on chibo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://clevermoomin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://clevermoomin.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clevermoomin.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ブログのつくりかた</title>
+      <link>https://clevermoomin.github.io/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clevermoomin.github.io/post/markdown-syntax/</guid>
+      <description>こんにちは</description>
+    </item>
+    
+    <item>
+      <title>Hugoが良すぎてGo言語を使いたくなる現象</title>
+      <link>https://clevermoomin.github.io/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clevermoomin.github.io/post/rich-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>浅草から上野まで</title>
+      <link>https://clevermoomin.github.io/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clevermoomin.github.io/post/placeholder-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://clevermoomin.github.io/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clevermoomin.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アート &lt; クリエイティブ = 課題解決</title>
+      <link>https://clevermoomin.github.io/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clevermoomin.github.io/post/math-typesetting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>休日朝の決意表明</title>
+      <link>https://clevermoomin.github.io/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clevermoomin.github.io/post/emoji-support/</guid>
+      <description>&lt;p&gt;あ
+Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>個人メモ</title>
+      <link>https://clevermoomin.github.io/post/sonoushiro/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clevermoomin.github.io/post/sonoushiro/</guid>
+      <description>Hugo + Netlifyでブログを作ったけど、わからないことが多いのでちょっとしたメモ。 見出し「#の数でh調整 + 半角改行」↑は#４つのh4
+#改行をいれるにはスペース２つ　これ
+** で文字列を挟む。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://clevermoomin.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clevermoomin.github.io/about/</guid>
+      <description>高知県生まれ、現在は横浜在住のデジタル何でも屋です。好きなものはAplle製品と2010年頃のネット文化です。
+特技はNo.リアルな脱出ゲームとギター演奏です。苦手なものは飲み会と勉強です。基礎教養ないです。
+WebやAppなどのデジタルコンテンツの制作やディレクションをしたり、中規模業者向けのDX支援をしたり、小さな教育事業をしながら暮らしています。</description>
+    </item>
+    
+  </channel>
+</rss>
