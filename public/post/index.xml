@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on chibo</title>
+    <link>https://chibo_site/post/</link>
+    <description>Recent content in Posts on chibo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 08 Feb 2021 16:36:03 +0900</lastBuildDate>
+    
+	<atom:link href="https://chibo_site/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://chibo_site/post/hello/</link>
+      <pubDate>Mon, 08 Feb 2021 16:36:03 +0900</pubDate>
+      
+      <guid>https://chibo_site/post/hello/</guid>
+      <description>あああああ
+テスト
+こんにちは</description>
+    </item>
+    
+    <item>
+      <title>ブログのつくりかた</title>
+      <link>https://chibo_site/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chibo_site/post/markdown-syntax/</guid>
+      <description>こんにちは</description>
+    </item>
+    
+    <item>
+      <title>Hugoが良すぎてGo言語を使いたくなる現象</title>
+      <link>https://chibo_site/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chibo_site/post/rich-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>浅草から上野まで</title>
+      <link>https://chibo_site/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chibo_site/post/placeholder-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アート &lt; クリエイティブ = 課題解決</title>
+      <link>https://chibo_site/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chibo_site/post/math-typesetting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>休日朝の決意表明</title>
+      <link>https://chibo_site/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chibo_site/post/emoji-support/</guid>
+      <description>&lt;p&gt;あ
+Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>個人メモ</title>
+      <link>https://chibo_site/post/sonoushiro/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chibo_site/post/sonoushiro/</guid>
+      <description>Hugo + Netlifyでブログを作ったけど、わからないことが多いのでちょっとしたメモ。 見出し「#の数でh調整 + 半角改行」↑は#４つのh4
+#改行をいれるにはスペース２つ　これ
+** で文字列を挟む。</description>
+    </item>
+    
+  </channel>
+</rss>

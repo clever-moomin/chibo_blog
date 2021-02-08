@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://chibo_site/</loc>
+    <lastmod>2021-02-08T16:36:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/post/hello/</loc>
+    <lastmod>2021-02-08T16:36:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/post/</loc>
+    <lastmod>2021-02-08T16:36:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/tags/git/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/tags/hugo/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/tags/%E3%82%B3%E3%83%A9%E3%83%A0/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/post/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/tags/go/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/post/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/tags/php/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/tags/%E6%95%A3%E6%AD%A9/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/post/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/contact/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/post/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/post/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/tags/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/post/sonoushiro/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chibo_site/tags/index/</loc>
+  </url>
+  
+</urlset>
