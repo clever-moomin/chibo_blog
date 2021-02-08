@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on chibo</title>
-    <link>chibo-blog.netlify.app/tags/hugo/</link>
+    <link>https://github.com/clever-moomin/chibo_site/tree/master/public/tags/hugo/</link>
     <description>Recent content in hugo on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="chibo-blog.netlify.app/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/clever-moomin/chibo_site/tree/master/public/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ブログのつくりかた</title>
-      <link>chibo-blog.netlify.app/post/markdown-syntax/</link>
+      <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>chibo-blog.netlify.app/post/markdown-syntax/</guid>
+      <guid>https://github.com/clever-moomin/chibo_site/tree/master/public/post/markdown-syntax/</guid>
       <description>こんにちは</description>
     </item>
     
     <item>
       <title>Hugoが良すぎてGo言語を使いたくなる現象</title>
-      <link>chibo-blog.netlify.app/post/rich-content/</link>
+      <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>chibo-blog.netlify.app/post/rich-content/</guid>
+      <guid>https://github.com/clever-moomin/chibo_site/tree/master/public/post/rich-content/</guid>
       <description></description>
     </item>
     

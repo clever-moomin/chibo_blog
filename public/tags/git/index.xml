@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>git on chibo</title>
-    <link>chibo-blog.netlify.app/tags/git/</link>
+    <link>https://github.com/clever-moomin/chibo_site/tree/master/public/tags/git/</link>
     <description>Recent content in git on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="chibo-blog.netlify.app/tags/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/clever-moomin/chibo_site/tree/master/public/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ブログのつくりかた</title>
-      <link>chibo-blog.netlify.app/post/markdown-syntax/</link>
+      <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>chibo-blog.netlify.app/post/markdown-syntax/</guid>
+      <guid>https://github.com/clever-moomin/chibo_site/tree/master/public/post/markdown-syntax/</guid>
       <description>こんにちは</description>
     </item>
     

@@ -1,4 +1,4 @@
-baseURL = "chibo-blog.netlify.app"
+baseURL = "https://github.com/clever-moomin/chibo_site/tree/master/public"
 languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
 title = "chibo"
