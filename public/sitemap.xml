@@ -3,111 +3,111 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chibo_site/</loc>
+    <loc>chibo-blog.netlify.app/</loc>
     <lastmod>2021-02-08T16:36:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/post/hello/</loc>
+    <loc>chibo-blog.netlify.app/post/hello/</loc>
     <lastmod>2021-02-08T16:36:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/post/</loc>
+    <loc>chibo-blog.netlify.app/post/</loc>
     <lastmod>2021-02-08T16:36:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/archives/</loc>
+    <loc>chibo-blog.netlify.app/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/tags/git/</loc>
+    <loc>chibo-blog.netlify.app/tags/git/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/tags/hugo/</loc>
+    <loc>chibo-blog.netlify.app/tags/hugo/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/tags/</loc>
+    <loc>chibo-blog.netlify.app/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/tags/%E3%82%B3%E3%83%A9%E3%83%A0/</loc>
+    <loc>chibo-blog.netlify.app/tags/%E3%82%B3%E3%83%A9%E3%83%A0/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/post/markdown-syntax/</loc>
+    <loc>chibo-blog.netlify.app/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/tags/go/</loc>
+    <loc>chibo-blog.netlify.app/tags/go/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/post/rich-content/</loc>
+    <loc>chibo-blog.netlify.app/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/tags/php/</loc>
+    <loc>chibo-blog.netlify.app/tags/php/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/tags/%E6%95%A3%E6%AD%A9/</loc>
+    <loc>chibo-blog.netlify.app/tags/%E6%95%A3%E6%AD%A9/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/post/placeholder-text/</loc>
+    <loc>chibo-blog.netlify.app/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/contact/</loc>
+    <loc>chibo-blog.netlify.app/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/post/math-typesetting/</loc>
+    <loc>chibo-blog.netlify.app/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/post/emoji-support/</loc>
+    <loc>chibo-blog.netlify.app/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/tags/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</loc>
+    <loc>chibo-blog.netlify.app/tags/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/post/sonoushiro/</loc>
+    <loc>chibo-blog.netlify.app/post/sonoushiro/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/about/</loc>
+    <loc>chibo-blog.netlify.app/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chibo_site/categories/</loc>
+    <loc>chibo-blog.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>https://chibo_site/tags/index/</loc>
+    <loc>chibo-blog.netlify.app/tags/index/</loc>
   </url>
   
 </urlset>

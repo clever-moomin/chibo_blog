@@ -1,4 +1,4 @@
-baseURL = "https://chibo_site"
+baseURL = "chibo-blog.netlify.app"
 languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
 title = "chibo"

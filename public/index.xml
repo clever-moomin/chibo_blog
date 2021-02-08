@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chibo</title>
-    <link>https://chibo_site/</link>
+    <link>chibo-blog.netlify.app/</link>
     <description>Recent content on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 08 Feb 2021 16:36:03 +0900</lastBuildDate>
     
-	<atom:link href="https://chibo_site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="chibo-blog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>https://chibo_site/post/hello/</link>
+      <link>chibo-blog.netlify.app/post/hello/</link>
       <pubDate>Mon, 08 Feb 2021 16:36:03 +0900</pubDate>
       
-      <guid>https://chibo_site/post/hello/</guid>
+      <guid>chibo-blog.netlify.app/post/hello/</guid>
       <description>あああああ
 テスト
 こんにちは</description>
@@ -24,74 +24,74 @@
     
     <item>
       <title></title>
-      <link>https://chibo_site/archives/</link>
+      <link>chibo-blog.netlify.app/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chibo_site/archives/</guid>
+      <guid>chibo-blog.netlify.app/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ブログのつくりかた</title>
-      <link>https://chibo_site/post/markdown-syntax/</link>
+      <link>chibo-blog.netlify.app/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chibo_site/post/markdown-syntax/</guid>
+      <guid>chibo-blog.netlify.app/post/markdown-syntax/</guid>
       <description>こんにちは</description>
     </item>
     
     <item>
       <title>Hugoが良すぎてGo言語を使いたくなる現象</title>
-      <link>https://chibo_site/post/rich-content/</link>
+      <link>chibo-blog.netlify.app/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chibo_site/post/rich-content/</guid>
+      <guid>chibo-blog.netlify.app/post/rich-content/</guid>
       <description></description>
     </item>
     
     <item>
       <title>浅草から上野まで</title>
-      <link>https://chibo_site/post/placeholder-text/</link>
+      <link>chibo-blog.netlify.app/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chibo_site/post/placeholder-text/</guid>
+      <guid>chibo-blog.netlify.app/post/placeholder-text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://chibo_site/contact/</link>
+      <link>chibo-blog.netlify.app/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chibo_site/contact/</guid>
+      <guid>chibo-blog.netlify.app/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>アート &lt; クリエイティブ = 課題解決</title>
-      <link>https://chibo_site/post/math-typesetting/</link>
+      <link>chibo-blog.netlify.app/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chibo_site/post/math-typesetting/</guid>
+      <guid>chibo-blog.netlify.app/post/math-typesetting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>休日朝の決意表明</title>
-      <link>https://chibo_site/post/emoji-support/</link>
+      <link>chibo-blog.netlify.app/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chibo_site/post/emoji-support/</guid>
+      <guid>chibo-blog.netlify.app/post/emoji-support/</guid>
       <description>&lt;p&gt;あ
 Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>個人メモ</title>
-      <link>https://chibo_site/post/sonoushiro/</link>
+      <link>chibo-blog.netlify.app/post/sonoushiro/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chibo_site/post/sonoushiro/</guid>
+      <guid>chibo-blog.netlify.app/post/sonoushiro/</guid>
       <description>Hugo + Netlifyでブログを作ったけど、わからないことが多いのでちょっとしたメモ。 見出し「#の数でh調整 + 半角改行」↑は#４つのh4
 #改行をいれるにはスペース２つ　これ
 ** で文字列を挟む。</description>
@@ -99,10 +99,10 @@ Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</descripti
     
     <item>
       <title>About</title>
-      <link>https://chibo_site/about/</link>
+      <link>chibo-blog.netlify.app/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chibo_site/about/</guid>
+      <guid>chibo-blog.netlify.app/about/</guid>
       <description>高知県生まれ、現在は横浜在住のデジタル何でも屋です。好きなものはAplle製品と2010年頃のネット文化です。
 特技はNo.リアルな脱出ゲームとギター演奏です。苦手なものは飲み会と勉強です。基礎教養ないです。
 WebやAppなどのデジタルコンテンツの制作やディレクションをしたり、中規模業者向けのDX支援をしたり、小さな教育事業をしながら暮らしています。</description>
