@@ -2,78 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on chibo</title>
-    <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/</link>
+    <link>https://clever-moomin.github.io/chibo_blog/post/</link>
     <description>Recent content in Posts on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 08 Feb 2021 16:36:03 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/clever-moomin/chibo_site/tree/master/public/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clever-moomin.github.io/chibo_blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello</title>
-      <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/hello/</link>
-      <pubDate>Mon, 08 Feb 2021 16:36:03 +0900</pubDate>
+      <title>休日朝の決意表明</title>
+      <link>https://clever-moomin.github.io/chibo_blog/post/emoji-support/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/clever-moomin/chibo_site/tree/master/public/post/hello/</guid>
-      <description>あああああ
-テスト
-こんにちは</description>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/emoji-support/</guid>
+      <description>ここ３年ほどブログやSNSのアウトプットをあまりしてこなかったのですが、久々に突発的な感情で行動してみようと思い立ち、インスタントコーヒーをがぶ飲みしながらこのブログを立ち上げました。（今は土曜の朝７時すぎです）
+数年前まではブログもSNSも人並みにはやっていましたが、ライフスタイルが変ったり、急激に価値観が塗り替えられていく出来事に立て続けに遭遇したり、なんとなく過去の自分のいたコミュニティーから距離を取りながら毎日が過ぎていくうちに、ネット上で自分の気持ちや生活をアウトプットするという機会自体が少なくなってしまいました。
+しかしふと周りの人を見ると自分の情報をうまく発信している人が多いので、羨ましいなと思い僕も下手なりにやってみようと思いました。また、過去に音楽家をしていた時代にブログをやっていて、それをきっかけにいくつか恩恵を受けた経験もあるので、個人的に続けるモチベーションも保ちやすいと考えています。
+もう一つSNSをやろうと思ったきっかけはこちらからInstagramで特定のタグに対するフォローを自動化するシステムを作る（準備中）
+また、せっかくの機会なのでこれまでに経験したことのない構成でサイトを作ろうと思い、まずは自己紹介用のサイトをLaravelというPHPのフレームワークでシンプルに作り、運用フェーズを考えてブログ機能のみサブドメインでWordPressで作りました。（現在はどちらもHugo+Netlifyで運用）
+こういったフレームワークを触ること自体は、過去にDjango（Pythonのフレームワーク）を趣味で触って以来ですが、Laravel自体のアーキテクチャや思想は、フルスタッフシステムかつMVCモデル＋便利な機能が多いという、今後自分の作っていきたいモノに非常にマッチしていると感じています。また、弄っているうちにHugoのように静的ページのジェネレーターとして使用できるのではと考えました。
+6.xまでのバージョンはネット上にわかりやすい情報が多いこともあり、今のところスムーズに構築ができています。
+実際にやってみて、dd();でテストが簡単に行えたり、Eloquentモデルに自動でデフォルト値を設定（自動でテスト用データをランダムで生成してくれる）Fecker PHPライブラリの豊富さと手軽さには感動しました。
+今更感は否めませんが、Laravelを通してエンジニアリングのスキルや設計力も上げていけたらと考えています。 今回構築したのはサイトなので（そもそも静的なHTMLファイルをトップに返している）あまりLaravelの恩恵は受けれていませんが、今までのデータ分析の経験を生かして、今後は実験的にWebアプリ（マッチングサービス）をLaravelの利点を生かして作ってみようかなと考えています。</description>
     </item>
     
     <item>
       <title>ブログのつくりかた</title>
-      <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/markdown-syntax/</link>
+      <link>https://clever-moomin.github.io/chibo_blog/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/clever-moomin/chibo_site/tree/master/public/post/markdown-syntax/</guid>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/markdown-syntax/</guid>
       <description>こんにちは</description>
     </item>
     
     <item>
       <title>Hugoが良すぎてGo言語を使いたくなる現象</title>
-      <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/rich-content/</link>
+      <link>https://clever-moomin.github.io/chibo_blog/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/clever-moomin/chibo_site/tree/master/public/post/rich-content/</guid>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/rich-content/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>浅草から上野まで</title>
-      <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/clever-moomin/chibo_site/tree/master/public/post/placeholder-text/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>アート &lt; クリエイティブ = 課題解決</title>
-      <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/clever-moomin/chibo_site/tree/master/public/post/math-typesetting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>休日朝の決意表明</title>
-      <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/emoji-support/</link>
+      <title>リモートワーカーが東京から郊外に引っ越してみて思うこと</title>
+      <link>https://clever-moomin.github.io/chibo_blog/post/hello/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/clever-moomin/chibo_site/tree/master/public/post/emoji-support/</guid>
-      <description>&lt;p&gt;あ
-Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/hello/</guid>
+      <description>最近リモート仕事ばかりなので横浜の方に引っ越しました。 thumbnail= &amp;ldquo;images/1-3.jpg&amp;rdquo;
+写真のように好きに楽しく過ごしている日もあれば、都内の生活に慣れているせいで不便なこともいくつかあったのでまとめてみようと思います。
+また、「郊外で過ごそうぜ」を発信している人の多くが一般企業に勤めている人や、一般的なフリーランスの働き方をしている人が少ないように感じています（フリーランスでかつブロガーやWeb制作専門のような新規＋複数案件をやっている人が多い印象）
+実際にこういった生活をして生計を立てている人は非常に珍しいパターンだと思うので、リモート仕事で自由も多いですが、比較的時間の拘束も多いという普遍的なリモートワーカー（コロナの影響＋会社の方針で今後そういった働き方になりそうな人含め）人向けに書いてみようと思います。
+そもそも引っ越すメリットは 引っ越すデメリットは 郊外生活での注意点 </description>
     </item>
     
     <item>
       <title>個人メモ</title>
-      <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/sonoushiro/</link>
+      <link>https://clever-moomin.github.io/chibo_blog/post/sonoushiro/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/clever-moomin/chibo_site/tree/master/public/post/sonoushiro/</guid>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/sonoushiro/</guid>
       <description>Hugo + Netlifyでブログを作ったけど、わからないことが多いのでちょっとしたメモ。 見出し「#の数でh調整 + 半角改行」↑は#４つのh4
 #改行をいれるにはスペース２つ　これ
 ** で文字列を挟む。</description>

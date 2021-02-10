@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on chibo</title>
-    <link>https://github.com/clever-moomin/chibo_site/tree/master/public/tags/index/</link>
+    <link>https://clever-moomin.github.io/chibo_blog/tags/index/</link>
     <description>Recent content in index on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     
-	<atom:link href="https://github.com/clever-moomin/chibo_site/tree/master/public/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clever-moomin.github.io/chibo_blog/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>https://github.com/clever-moomin/chibo_site/tree/master/public/post/</link>
-      <pubDate>Mon, 08 Feb 2021 16:36:03 +0900</pubDate>
+      <link>https://clever-moomin.github.io/chibo_blog/post/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/clever-moomin/chibo_site/tree/master/public/post/</guid>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/</guid>
       <description></description>
     </item>
     

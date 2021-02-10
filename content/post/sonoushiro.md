@@ -27,7 +27,8 @@ thumbnail= "images/landscape.jpg"
 ![This is a image](/images/ URLをいれる )
 
 ↓こうなる（必ずstaticディレクトリにいれること！）
-![This is a image](/images/tio.jpg)
+thumbnail= "images/tio.jpg"
+
 
 Thumbnails can be enabled easily by setting the `thumbnail` parameter in the frontmatter to an image such as `"images/landscape.jpg"`. 
 

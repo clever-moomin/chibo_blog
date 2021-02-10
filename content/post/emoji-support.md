@@ -1,46 +1,92 @@
 +++
 author = "chibo"
 title = "休日朝の決意表明"
-date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
+date = "2019-09-02"
+description = "休日朝の決意表明"
 tags = [
     "コラム",
 ]
 +++
-あ
-Emoji can be enabled in a Hugo project in a number of ways. 
-<!--more-->
-The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes). 
 
-To enable emoji globally, set `enableEmoji` to `true` in your site's [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
+![](/images/1-2.jpg)
 
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
 
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+ここ３年ほどブログやSNSのアウトプットをあまりしてこなかったのですが、久々に突発的な感情で行動してみようと思い立ち、インスタントコーヒーをがぶ飲みしながらこのブログを立ち上げました。（今は土曜の朝７時すぎです）
 
-***
 
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
+数年前まではブログもSNSも人並みにはやっていましたが、ライフスタイルが変ったり、急激に価値観が塗り替えられていく出来事に立て続けに遭遇したり、なんとなく過去の自分のいたコミュニティーから距離を取りながら毎日が過ぎていくうちに、ネット上で自分の気持ちや生活をアウトプットするという機会自体が少なくなってしまいました。
 
-{{< highlight html >}}
-.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}
-{{< /highlight >}}
 
-{{< css.inline >}}
-<style>
-.emojify {
-	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-  .nowrap {
-    display: block;
-    margin: 25px 0;
-  }
-}
-</style>
-{{< /css.inline >}}
+しかしふと周りの人を見ると自分の情報をうまく発信している人が多いので、羨ましいなと思い僕も下手なりにやってみようと思いました。また、過去に音楽家をしていた時代にブログをやっていて、それをきっかけにいくつか恩恵を受けた経験もあるので、個人的に続けるモチベーションも保ちやすいと考えています。
+
+もう一つSNSをやろうと思ったきっかけはこちらからInstagramで特定のタグに対するフォローを自動化するシステムを作る（準備中）
+
+
+また、せっかくの機会なのでこれまでに経験したことのない構成でサイトを作ろうと思い、まずは自己紹介用のサイトをLaravelというPHPのフレームワークでシンプルに作り、運用フェーズを考えてブログ機能のみサブドメインでWordPressで作りました。（現在はどちらもHugo+Netlifyで運用）
+
+
+こういったフレームワークを触ること自体は、過去にDjango（Pythonのフレームワーク）を趣味で触って以来ですが、Laravel自体のアーキテクチャや思想は、フルスタッフシステムかつMVCモデル＋便利な機能が多いという、今後自分の作っていきたいモノに非常にマッチしていると感じています。また、弄っているうちにHugoのように静的ページのジェネレーターとして使用できるのではと考えました。
+
+
+6.xまでのバージョンはネット上にわかりやすい情報が多いこともあり、今のところスムーズに構築ができています。
+
+
+実際にやってみて、dd();でテストが簡単に行えたり、Eloquentモデルに自動でデフォルト値を設定（自動でテスト用データをランダムで生成してくれる）Fecker PHPライブラリの豊富さと手軽さには感動しました。
+
+
+今更感は否めませんが、Laravelを通してエンジニアリングのスキルや設計力も上げていけたらと考えています。
+今回構築したのはサイトなので（そもそも静的なHTMLファイルをトップに返している）あまりLaravelの恩恵は受けれていませんが、今までのデータ分析の経験を生かして、今後は実験的にWebアプリ（マッチングサービス）をLaravelの利点を生かして作ってみようかなと考えています。
+
+
+また、このブログと同時並行で行う目標として以下を考えています。
+せっかくなので決意表明という形で書いておきます。
+
+
+①Web関連の新規業務を行う（他のジャンルの案件獲得）
+
+
+②テスト的に運用しているWebマガジンのスタッフを見つける
+
+
+③音楽教室仲間の募集と顧客満足度の維持、新しい生徒さんの募集
+
+
+④私自身がなるべく非レガシーな環境で開発仕事に着く（期間は未定）
+
+
+⑤英語の勉強（現状ステータスは小〜中学レベル）
+
+
+小さい事業をやっていますが、すでにミニマムな仕組みは構築できており、少しの利益もでています。だけどこれ以上グロースさせるには、どう考えても時間とお金と熱意が必要です。
+
+いまの環境と私のステータスを考えたときに、そこに今まで以上のリソースを注ぐというのも違うなと考えています。また、新しい挑戦よりも今お選びくださっているお客様と、末永く向き合いたいという結論に至りました。
+
+
+また、前提として①〜⑤の全てを達成するハードルは非常に高いと考えており、断念する可能性も十分にあると考えてます。
+
+しかしそのために努力することはプラスになることはあってもマイナスにはならないと考えています。
+将来自分の目指したいライフスタイルを成立させて、かつ持続させていくために必要な計画だと思っています。
+
+
+
+
+
+今回のメモ
+
+
+Laravelで静的なHTMLファイルを返す方法
+
+ーーー
+
+①Laravel + Bladeで静的なHTMLファイルを生成して直接ブラウザからアクセスして高速表示をさせる手法
+
+`Route::get('/', function () {`
+    `return \File::get(public_path() . '/index.html');`
+`});`
+
+②publicに作成したhtmlファイル（例：index.html)をroutes/web.phpで指定して直接表示させる方法。(viewインスタンスを返す代わりにFileクラスのgetメソッドを用いて、ファイルの中身を返す)※今回はこれ
+
+`return File::get(public_path() . '/index.html');`
+
+ーーー
+

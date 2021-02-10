@@ -1,4 +1,4 @@
-baseURL = "https://github.com/clever-moomin/chibo_site/tree/master/public"
+baseURL = "https://clever-moomin.github.io/chibo_blog/"
 languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
 title = "chibo"
@@ -57,22 +57,22 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-twitter"
 title = "Twitter"
-url = "https://de.linkedin.com/"
+url = "https://twitter.com/LaravelCat"
 
 [[params.socialIcons]]
 icon = "fab fa-laravel"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://clever-moomin.github.io/chibo_blog/"
 
 [[params.socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://clever-moomin.github.io/chibo_blog/"
 
 [[params.socialIcons]]
 icon = "fas fa-headphones"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "https://clever-moomin.github.io/chibo_blog/"
 
 ## Menu items
 
