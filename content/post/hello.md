@@ -1,16 +1,19 @@
 +++
 author = "chibo"
 title = "リモートワーカーが東京から郊外に引っ越してみて思うこと"
-date = "2019-03-05"
+date = "2020-09-05"
 description = "Guide to Thumbnails in Hugo"
 Tags= [
   "コラム",
   "横浜生活",
 ]
+thumbnail= "images/2.jpg"
 +++
 
+
+
 最近リモート仕事ばかりなので横浜の方に引っ越しました。
-thumbnail= "images/1-3.jpg"
+
 
 写真のように好きに楽しく過ごしている日もあれば、都内の生活に慣れているせいで不便なこともいくつかあったのでまとめてみようと思います。
 

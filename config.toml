@@ -3,9 +3,12 @@ languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
 title = "chibo"
 theme = "anatole"
-summarylength = 10
+#summary（TOPページなどで表示されている記事の概要）のテキスト文字数を決めることができます。
+summarylength = 0
+HasCJKLanguage = true
 enableEmoji = true
 enableRobotsTXT = true
+
 
 # Enable Disqus
 #disqusShortname = ""
@@ -62,17 +65,17 @@ url = "https://twitter.com/LaravelCat"
 [[params.socialIcons]]
 icon = "fab fa-laravel"
 title = "GitHub"
-url = "https://clever-moomin.github.io/chibo_blog/"
+url = "/"
 
 [[params.socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://clever-moomin.github.io/chibo_blog/"
+url = "/"
 
 [[params.socialIcons]]
 icon = "fas fa-headphones"
 title = "e-mail"
-url = "https://clever-moomin.github.io/chibo_blog/"
+url = "/"
 
 ## Menu items
 

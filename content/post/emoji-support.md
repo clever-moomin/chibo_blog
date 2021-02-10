@@ -1,14 +1,14 @@
 +++
 author = "chibo"
 title = "休日朝の決意表明"
-date = "2019-09-02"
+date = "2020-09-02"
 description = "休日朝の決意表明"
 tags = [
     "コラム",
 ]
+thumbnail= "images/1-2.jpg"
 +++
 
-![](/images/1-2.jpg)
 
 
 ここ３年ほどブログやSNSのアウトプットをあまりしてこなかったのですが、久々に突発的な感情で行動してみようと思い立ち、インスタントコーヒーをがぶ飲みしながらこのブログを立ち上げました。（今は土曜の朝７時すぎです）
@@ -84,7 +84,7 @@ Laravelで静的なHTMLファイルを返す方法
     `return \File::get(public_path() . '/index.html');`
 `});`
 
-②publicに作成したhtmlファイル（例：index.html)をroutes/web.phpで指定して直接表示させる方法。(viewインスタンスを返す代わりにFileクラスのgetメソッドを用いて、ファイルの中身を返す)※今回はこれ
+②publicに作成したhtmlファイル（例：index.html）をroutes/web.phpで指定して直接表示させる方法。（viewインスタンスを返す代わりにFileクラスのgetメソッドを用いて、ファイルの中身を返す）※今回はこれ
 
 `return File::get(public_path() . '/index.html');`
 

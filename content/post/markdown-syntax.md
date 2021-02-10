@@ -1,18 +1,14 @@
 +++
 author = "chibo"
 title = "ブログのつくりかた"
-date = "2019-03-11"
+date = "2020-10-01"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "hugo",
     "git",
     "コラム",
 ]
-categories = [
-   
-]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
+thumbnail= "images/4.jpg"
 +++
 
 こんにちは

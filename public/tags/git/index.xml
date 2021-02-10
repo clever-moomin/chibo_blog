@@ -6,7 +6,7 @@
     <description>Recent content in git on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://clever-moomin.github.io/chibo_blog/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>ブログのつくりかた</title>
       <link>https://clever-moomin.github.io/chibo_blog/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://clever-moomin.github.io/chibo_blog/post/markdown-syntax/</guid>
-      <description>こんにちは</description>
+      <description></description>
     </item>
     
   </channel>

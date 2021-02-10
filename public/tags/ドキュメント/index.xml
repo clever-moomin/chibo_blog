@@ -6,7 +6,7 @@
     <description>Recent content in ドキュメント on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://clever-moomin.github.io/chibo_blog/tags/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,10 @@
     <item>
       <title>個人メモ</title>
       <link>https://clever-moomin.github.io/chibo_blog/post/sonoushiro/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://clever-moomin.github.io/chibo_blog/post/sonoushiro/</guid>
-      <description>Hugo + Netlifyでブログを作ったけど、わからないことが多いのでちょっとしたメモ。 見出し「#の数でh調整 + 半角改行」↑は#４つのh4
-#改行をいれるにはスペース２つ　これ
-** で文字列を挟む。</description>
+      <description></description>
     </item>
     
   </channel>

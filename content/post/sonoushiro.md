@@ -1,26 +1,56 @@
 +++
 author = "chibo"
 title = "個人メモ"
-date = "2019-03-04"
+date = "2020-09-07"
 description = "Guide to Thumbnails in Hugo"
 tags = [
     "コラム",
     "ドキュメント",
 ]
-thumbnail= "images/landscape.jpg"
+thumbnail= "images/1-3.jpg"
 
 +++
 
 #### Hugo + Netlifyでブログを作ったけど、わからないことが多いのでちょっとしたメモ。
-見出し「#の数でh調整 + 半角改行」↑は#４つのh4
 
-#改行をいれるにはスペース２つ　　これ
+##### config.tomiについて
 
-** で文字列を挟む。
+summarylength →　サマリのテキスト文字数を決めることができる。
 
-コードは`で囲む
+日本語で記事作成の場合　→　HasCJKLanguage = true　を追加するとsummarylengthが正常に動く。（苦労した）
 
-`hugo new site chibo`
+
+##### [Params]について（config.tomi）
+
+socialShare
+記事をSNSに連携するためのアイコンが表示。
+
+readingTime
+この記事を読むのに何分程度かかるのか表示。
+
+wordCount
+記事の文字数を表示。
+
+
+#####　記事作成の際の設定
+
+タグの設定
+→tags: [ "Hugo", "go" ]　←複数設定したいときはこのように書く。
+
+カテゴリーの設定
+---
+title: "ここにタイトル"
+date: 2019-02-20
+draft: flase
+categories: [ "ここに入力" ]
+---
+
+
+
+
+
+
+
 
 #画像を貼りたい場合
 
