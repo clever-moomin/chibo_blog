@@ -2,99 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chibo</title>
-    <link>https://clever-moomin.github.io/remote/</link>
+    <link>https://clever-moomin.github.io/chibo_blog/</link>
     <description>Recent content on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://clever-moomin.github.io/remote/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clever-moomin.github.io/chibo_blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://clever-moomin.github.io/remote/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <title>家に猫が来た</title>
+      <link>https://clever-moomin.github.io/chibo_blog/post/neko/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/remote/archives/</guid>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/neko/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ブログのつくりかた</title>
-      <link>https://clever-moomin.github.io/remote/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Angular&#43;FireBaseが最強だと思う話</title>
+      <link>https://clever-moomin.github.io/chibo_blog/post/angular/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/remote/post/markdown-syntax/</guid>
-      <description>こんにちは</description>
-    </item>
-    
-    <item>
-      <title>Hugoが良すぎてGo言語を使いたくなる現象</title>
-      <link>https://clever-moomin.github.io/remote/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://clever-moomin.github.io/remote/post/rich-content/</guid>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/angular/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>浅草から上野まで</title>
-      <link>https://clever-moomin.github.io/remote/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>いままでの人生はこれからの人生の個性だ</title>
+      <link>https://clever-moomin.github.io/chibo_blog/post/my-blog-post/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/remote/post/placeholder-text/</guid>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/my-blog-post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://clever-moomin.github.io/remote/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <title>北鎌倉のお寺でHugo環境で作ったブログをNetlifyにデプロイした話</title>
+      <link>https://clever-moomin.github.io/chibo_blog/post/kitakamakura/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/remote/contact/</guid>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/kitakamakura/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>アート &lt; クリエイティブ = 課題解決</title>
-      <link>https://clever-moomin.github.io/remote/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <title>浅草と上野とムーミンと</title>
+      <link>https://clever-moomin.github.io/chibo_blog/post/asakusa/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/remote/post/math-typesetting/</guid>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/asakusa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>個人メモ（Hugo）</title>
+      <link>https://clever-moomin.github.io/chibo_blog/post/hugo-memo/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://clever-moomin.github.io/chibo_blog/post/hugo-memo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>リモートワーカーが東京から郊外に引っ越してみて思うこと</title>
+      <link>https://clever-moomin.github.io/chibo_blog/post/yokohama/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://clever-moomin.github.io/chibo_blog/post/yokohama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>休日朝の決意表明</title>
-      <link>https://clever-moomin.github.io/remote/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <link>https://clever-moomin.github.io/chibo_blog/post/1/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/remote/post/emoji-support/</guid>
-      <description>&lt;p&gt;あ
-Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://clever-moomin.github.io/chibo_blog/post/1/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>個人メモ</title>
-      <link>https://clever-moomin.github.io/remote/post/sonoushiro/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://clever-moomin.github.io/chibo_blog/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/remote/post/sonoushiro/</guid>
-      <description>Hugo + Netlifyでブログを作ったけど、わからないことが多いのでちょっとしたメモ。 見出し「#の数でh調整 + 半角改行」↑は#４つのh4
-#改行をいれるにはスペース２つ　これ
-** で文字列を挟む。</description>
+      <guid>https://clever-moomin.github.io/chibo_blog/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://clever-moomin.github.io/chibo_blog/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://clever-moomin.github.io/chibo_blog/contact/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://clever-moomin.github.io/remote/about/</link>
+      <link>https://clever-moomin.github.io/chibo_blog/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/remote/about/</guid>
-      <description>高知県生まれ、現在は横浜在住のデジタル何でも屋です。好きなものはAplle製品と2010年頃のネット文化です。
-特技はNo.リアルな脱出ゲームとギター演奏です。苦手なものは飲み会と勉強です。基礎教養ないです。
-WebやAppなどのデジタルコンテンツの制作やディレクションをしたり、中規模業者向けのDX支援をしたり、小さな教育事業をしながら暮らしています。</description>
+      <guid>https://clever-moomin.github.io/chibo_blog/about/</guid>
+      <description></description>
     </item>
     
   </channel>
