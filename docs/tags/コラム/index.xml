@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>コラム on chibo</title>
-    <link>https://clever-moomin.github.io/chibo_blog/tags/%E3%82%B3%E3%83%A9%E3%83%A0/</link>
+    <link>https://clever-moomin.github.io/chibo/tags/%E3%82%B3%E3%83%A9%E3%83%A0/</link>
     <description>Recent content in コラム on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://clever-moomin.github.io/chibo_blog/tags/%E3%82%B3%E3%83%A9%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clever-moomin.github.io/chibo/tags/%E3%82%B3%E3%83%A9%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>家に猫が来た</title>
-      <link>https://clever-moomin.github.io/chibo_blog/post/neko/</link>
+      <link>https://clever-moomin.github.io/chibo/post/neko/</link>
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo_blog/post/neko/</guid>
+      <guid>https://clever-moomin.github.io/chibo/post/neko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angular&#43;FireBaseが最強だと思う話</title>
-      <link>https://clever-moomin.github.io/chibo_blog/post/angular/</link>
+      <link>https://clever-moomin.github.io/chibo/post/angular/</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo_blog/post/angular/</guid>
+      <guid>https://clever-moomin.github.io/chibo/post/angular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>浅草と上野とムーミンと</title>
-      <link>https://clever-moomin.github.io/chibo_blog/post/asakusa/</link>
+      <link>https://clever-moomin.github.io/chibo/post/asakusa/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo_blog/post/asakusa/</guid>
+      <guid>https://clever-moomin.github.io/chibo/post/asakusa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>休日朝の決意表明</title>
-      <link>https://clever-moomin.github.io/chibo_blog/post/1/</link>
+      <link>https://clever-moomin.github.io/chibo/post/1/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo_blog/post/1/</guid>
+      <guid>https://clever-moomin.github.io/chibo/post/1/</guid>
       <description></description>
     </item>
     

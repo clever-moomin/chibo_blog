@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>メモ on chibo</title>
-    <link>https://clever-moomin.github.io/chibo_blog/tags/%E3%83%A1%E3%83%A2/</link>
+    <link>https://clever-moomin.github.io/chibo/tags/%E3%83%A1%E3%83%A2/</link>
     <description>Recent content in メモ on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://clever-moomin.github.io/chibo_blog/tags/%E3%83%A1%E3%83%A2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clever-moomin.github.io/chibo/tags/%E3%83%A1%E3%83%A2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>個人メモ（Hugo）</title>
-      <link>https://clever-moomin.github.io/chibo_blog/post/hugo-memo/</link>
+      <link>https://clever-moomin.github.io/chibo/post/hugo-memo/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo_blog/post/hugo-memo/</guid>
+      <guid>https://clever-moomin.github.io/chibo/post/hugo-memo/</guid>
       <description></description>
     </item>
     

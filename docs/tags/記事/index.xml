@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>記事 on chibo</title>
-    <link>https://clever-moomin.github.io/chibo_blog/tags/%E8%A8%98%E4%BA%8B/</link>
+    <link>https://clever-moomin.github.io/chibo/tags/%E8%A8%98%E4%BA%8B/</link>
     <description>Recent content in 記事 on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://clever-moomin.github.io/chibo_blog/tags/%E8%A8%98%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clever-moomin.github.io/chibo/tags/%E8%A8%98%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>リモートワーカーが東京から郊外に引っ越してみて思うこと</title>
-      <link>https://clever-moomin.github.io/chibo_blog/post/yokohama/</link>
+      <link>https://clever-moomin.github.io/chibo/post/yokohama/</link>
       <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo_blog/post/yokohama/</guid>
+      <guid>https://clever-moomin.github.io/chibo/post/yokohama/</guid>
       <description></description>
     </item>
     

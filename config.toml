@@ -1,4 +1,4 @@
-baseURL = "https://clever-moomin.github.io/chibo_blog/"
+baseURL = "https://clever-moomin.github.io/chibo/"
 languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
 title = "chibo"
