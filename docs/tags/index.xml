@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on chibo</title>
-    <link>https://clever-moomin.github.io/chibo/tags/</link>
+    <link>https://clever-moomin.github.io/remote/tags/</link>
     <description>Recent content in Tags on chibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://clever-moomin.github.io/chibo/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clever-moomin.github.io/remote/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>コラム</title>
-      <link>https://clever-moomin.github.io/chibo/tags/%E3%82%B3%E3%83%A9%E3%83%A0/</link>
+      <link>https://clever-moomin.github.io/remote/tags/%E3%82%B3%E3%83%A9%E3%83%A0/</link>
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo/tags/%E3%82%B3%E3%83%A9%E3%83%A0/</guid>
+      <guid>https://clever-moomin.github.io/remote/tags/%E3%82%B3%E3%83%A9%E3%83%A0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angular</title>
-      <link>https://clever-moomin.github.io/chibo/tags/angular/</link>
+      <link>https://clever-moomin.github.io/remote/tags/angular/</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo/tags/angular/</guid>
+      <guid>https://clever-moomin.github.io/remote/tags/angular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FireBase</title>
-      <link>https://clever-moomin.github.io/chibo/tags/firebase/</link>
+      <link>https://clever-moomin.github.io/remote/tags/firebase/</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo/tags/firebase/</guid>
+      <guid>https://clever-moomin.github.io/remote/tags/firebase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>横浜</title>
-      <link>https://clever-moomin.github.io/chibo/tags/%E6%A8%AA%E6%B5%9C/</link>
+      <link>https://clever-moomin.github.io/remote/tags/%E6%A8%AA%E6%B5%9C/</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo/tags/%E6%A8%AA%E6%B5%9C/</guid>
+      <guid>https://clever-moomin.github.io/remote/tags/%E6%A8%AA%E6%B5%9C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>エッセイ</title>
-      <link>https://clever-moomin.github.io/chibo/tags/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/</link>
+      <link>https://clever-moomin.github.io/remote/tags/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo/tags/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/</guid>
+      <guid>https://clever-moomin.github.io/remote/tags/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>メモ</title>
-      <link>https://clever-moomin.github.io/chibo/tags/%E3%83%A1%E3%83%A2/</link>
+      <link>https://clever-moomin.github.io/remote/tags/%E3%83%A1%E3%83%A2/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo/tags/%E3%83%A1%E3%83%A2/</guid>
+      <guid>https://clever-moomin.github.io/remote/tags/%E3%83%A1%E3%83%A2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>横浜生活</title>
-      <link>https://clever-moomin.github.io/chibo/tags/%E6%A8%AA%E6%B5%9C%E7%94%9F%E6%B4%BB/</link>
+      <link>https://clever-moomin.github.io/remote/tags/%E6%A8%AA%E6%B5%9C%E7%94%9F%E6%B4%BB/</link>
       <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo/tags/%E6%A8%AA%E6%B5%9C%E7%94%9F%E6%B4%BB/</guid>
+      <guid>https://clever-moomin.github.io/remote/tags/%E6%A8%AA%E6%B5%9C%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     
     <item>
       <title>記事</title>
-      <link>https://clever-moomin.github.io/chibo/tags/%E8%A8%98%E4%BA%8B/</link>
+      <link>https://clever-moomin.github.io/remote/tags/%E8%A8%98%E4%BA%8B/</link>
       <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://clever-moomin.github.io/chibo/tags/%E8%A8%98%E4%BA%8B/</guid>
+      <guid>https://clever-moomin.github.io/remote/tags/%E8%A8%98%E4%BA%8B/</guid>
       <description></description>
     </item>
     
