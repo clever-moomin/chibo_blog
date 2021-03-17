@@ -27,7 +27,7 @@ author = "chibo blog"
 #copyright = "chibo"
 description = "Web開発やDX支援や音楽を教えたりして生きてます"
 #メモ　I am what I am.
-profilePicture = "images/tio1.png"
+profilePicture = "images/b1.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -65,17 +65,17 @@ url = "https://twitter.com/LaravelCat"
 [[params.socialIcons]]
 icon = "fab fa-laravel"
 title = "GitHub"
-url = "/"
+url = "https://clever-moomin.github.io/remote/"
 
 [[params.socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "/"
+url = "https://clever-moomin.github.io/remote/"
 
 [[params.socialIcons]]
 icon = "fas fa-headphones"
 title = "e-mail"
-url = "/"
+url = "https://clever-moomin.github.io/remote/"
 
 ## Menu items
 

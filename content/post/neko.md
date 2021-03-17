@@ -6,7 +6,7 @@ description = "うちに猫が来た話"
 tags = [
     "コラム",
 ]
-thumbnail= "images/9.jpg"
+thumbnail= "images/neko.jpg"
 +++
 
 最近うちに猫が来ました。

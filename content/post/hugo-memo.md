@@ -6,7 +6,7 @@ description = "Guide to Thumbnails in Hugo"
 tags = [
     "メモ",
 ]
-thumbnail= "images/4.jpg"
+thumbnail= "images/hugo.png"
 
 +++
 

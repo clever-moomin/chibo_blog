@@ -9,7 +9,7 @@ tags = [
     "横浜",
     "FireBase",
 ]
-thumbnail= "images/tio1.png"
+thumbnail= "images/a-f.png"
 +++
 
 
