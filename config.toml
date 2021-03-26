@@ -9,6 +9,8 @@ HasCJKLanguage = true
 enableEmoji = true
 enableRobotsTXT = true
 
+publishDir = "docs"  ######################### 追加
+canonifyurls = true  ######################## 追加(相対URLを絶対URLに変換できるようにする)
 
 # Enable Disqus
 #disqusShortname = ""
@@ -25,7 +27,7 @@ pygmentsCodefencesGuessSyntax = true
 title = "Chibo/ちぼ"
 author = "chibo blog"
 #copyright = "chibo"
-description = "Web開発やDX支援や音楽を教えたりして生きてます"
+description = "Web開発やデジタルマーケや音楽を教えたりして暮らしてます"
 #メモ　I am what I am.
 profilePicture = "images/b1.png"
 keywords = ""
@@ -106,4 +108,4 @@ url = "https://clever-moomin.github.io/remote/"
   url = "/contact/"
 
 
-publishDir = "docs"
+
